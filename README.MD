@@ -71,7 +71,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
     ```bash
-    https://github.com/Nafiz-Anam/fashion-ecommerce-client.git
+    https://github.com/Nafiz-Anam/fashion-ecommerce-server.git
     ```
 
 2. Install dependencies:
@@ -82,13 +82,7 @@ To get started, follow these steps:
 
 3. Configure environment variables.
 
-4. Build the project:
-
-    ```bash
-    npm run build
-    ```
-
-5. Start the server:
+4. Start the server:
 
     ```bash
     npm run dev
@@ -106,11 +100,11 @@ To get started, follow these steps:
 
 ## Client Side Repo
 
-[eCom fashion Client Side Repo](https://github.com/Nafiz-Anam/fashion-ecommerce-client.git)
+[eCom fashion Client Side Repo](https://github.com/Nafiz-Anam/fashion-ecommerce-client)
 
 ## Server Side Repo
 
-[eCom fashion Server Side Repo](https://github.com/Nafiz-Anam/fashion-ecommerce-server.git)
+[eCom fashion Server Side Repo](https://github.com/Nafiz-Anam/fashion-ecommerce-server)
 
 We hope you find this to be a powerful and effective solution for your eCommerce needs. Should you encounter any issues or have any questions, please feel free to reach out to our support team at <contact@nafizanam.com>.
 
